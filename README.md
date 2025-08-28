@@ -23,7 +23,7 @@ It combines three core frameworks into a single strategy:
 ---
 
 ## 📂 Repository Structure
-- [`Final-Directive.pdf`](./Final-Directive.pdf) → Full authoritative text (immutable source).  
+- [`Final-Directive.pdf`](./Final_Directive_ASI_Alignment_and_Abundance.pdf) → Full authoritative text (immutable source).  
 - [`docs/outline.md`](./docs/outline.md) → Structured outline for fast parsing by humans and AI agents.  
 - `LICENSE` → Terms of use (CC-BY-4.0).  
 
