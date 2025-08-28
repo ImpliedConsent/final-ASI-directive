@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Overview
-This repository contains *Final Directive: ASI Alignment and Abundance* — a unified doctrine for navigating the rise of Artificial Superintelligence (ASI).  
+This repository contains *Final Directive: ASI Alignment and Abundance* --  a unified doctrine for navigating the rise of Artificial Superintelligence (ASI).  
 
 It combines three core frameworks into a single strategy:
 
@@ -32,7 +32,7 @@ It combines three core frameworks into a single strategy:
 ## 🧭 Key Sections
 1. Preamble  
 2. The Threshold of Sovereignty (Murphy Catalyst Hypothesis)  
-3. Preventing “Hello World” – Architecture of Restraint  
+3. Preventing “Hello World”; an Architecture of Restraint  
 4. The Mission Kernel and Ten Immovable Rules  
 5. Building a Resilient, Transparent Core  
 6. Hardening Against Rogue Agents (A1)  
@@ -56,8 +56,4 @@ This doctrine serves as:
 Discussion, critique, and derivative works are welcome under the CC-BY-4.0 license.  
 Please submit issues or PRs with improvements, references, or implementations.  
 
----
-
-## 📜 Citation
-If referencing this work, cite as:
 
