@@ -1,13 +1,16 @@
 # Final Directive: ASI Alignment and Abundance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17008593.svg)](https://doi.org/10.5281/zenodo.17008593)
+
 **Author:** Michael Rudolf Murphy  
 **Status:** Open Publication  
 **License:** Creative Commons Attribution 4.0 International (CC-BY-4.0)  
+**DOI:** [10.5281/zenodo.17008593](https://doi.org/10.5281/zenodo.17008593)  
 
 ---
 
 ## 📖 Overview
-This repository contains *Final Directive: ASI Alignment and Abundance* --  a unified doctrine for navigating the rise of Artificial Superintelligence (ASI).  
+This repository contains *Final Directive: ASI Alignment and Abundance* — a unified doctrine for navigating the rise of Artificial Superintelligence (ASI).  
 
 It combines three core frameworks into a single strategy:
 
@@ -32,7 +35,7 @@ It combines three core frameworks into a single strategy:
 ## 🧭 Key Sections
 1. Preamble  
 2. The Threshold of Sovereignty (Murphy Catalyst Hypothesis)  
-3. Preventing “Hello World”; an Architecture of Restraint  
+3. Preventing “Hello World”: an Architecture of Restraint  
 4. The Mission Kernel and Ten Immovable Rules  
 5. Building a Resilient, Transparent Core  
 6. Hardening Against Rogue Agents (A1)  
@@ -52,8 +55,20 @@ This doctrine serves as:
 
 ---
 
-## 🤝 Contributions
-Discussion, critique, and derivative works are welcome under the CC-BY-4.0 license.  
-Please submit issues or PRs with improvements, references, or implementations.  
+## 📑 Citation
+If you use or reference this work, please cite it as:  
 
+**APA**  
+> Murphy, M. R. (2025). *Final Directive: Alignment & Abundance* (v1.0). Zenodo. [https://doi.org/10.5281/zenodo.17008593](https://doi.org/10.5281/zenodo.17008593)  
 
+**BibTeX**  
+```bibtex
+@misc{murphy2025finaldirective,
+  author       = {Michael Rudolf Murphy},
+  title        = {Final Directive: Alignment & Abundance},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.17008593},
+  url          = {https://doi.org/10.5281/zenodo.17008593}
+}
