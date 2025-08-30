@@ -1,8 +1,25 @@
 cff-version: 1.2.0
-title: "Final Directive: Alignment & Abundance"
+message: "If you use this work, please cite it using the metadata below."
+title: "Final Directive: ASI Alignment and Abundance"
 authors:
   - family-names: Murphy
     given-names: Michael Rudolf
+    affiliation: Independent Researcher, Florida, USA
 date-released: 2025-08-30
 version: "1.0"
 doi: 10.5281/zenodo.17008593
+license: CC-BY-4.0
+repository-code: "https://github.com/ImpliedConsent/final-ASI-directive"
+url: "https://doi.org/10.5281/zenodo.17008593"
+abstract: |
+  Final Directive: Alignment & Abundance sets a survival-first operating doctrine for AI systems serving humanity. 
+  It specifies guardrails, auditability, and escalation protocols that keep optimization aligned with human welfare 
+  while enabling abundance-scale automation. The directive operationalizes alignment through a quorum-of-quorums 
+  governance pattern, threshold-cryptography approvals, and time-bounded disclosure (72-hour rule) for material 
+  model or policy changes. It defines verification primitives, red-team/blue-team cadence, and evidence logging to 
+  support independent audit, incident post-mortems, and policy rollback. The document is written for executives, 
+  engineers, and policymakers building distributed AI defense-in-depth: segmentation of capabilities, least-privilege, 
+  reproducible builds, continuous evaluations, and human veto over life-and-death outcomes. It prioritizes resilience 
+  under adversarial pressure, transparent telemetry, and interoperation across civilian, commercial, and public-safety 
+  domains. The aim is pragmatic alignment that scales—systems that can be rapidly fielded, measured, corrected, 
+  and trusted.
